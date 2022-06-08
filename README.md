@@ -1,4 +1,4 @@
-# -Google-LeetCode-
+# Google LeetCode
 
 # 𝐓𝐨𝐩 Google LeetCode 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬:-
 
